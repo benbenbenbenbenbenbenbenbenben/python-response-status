@@ -9,7 +9,7 @@
 import json
 import requests
 
-apikey = '24bda09849be8167a235bd8ff44b42b346d566c7' #Add your API Key
+apikey = '' #Add your API Key
 headers = {'X-Cisco-Meraki-API-Key': apikey, 'Content-Type': 'application/json'}
 
 api_url = 'https://api.meraki.com/api/v0/organizations' 
